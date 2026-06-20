@@ -1,0 +1,27 @@
+/* selector de etiquetas */
+h1 {
+    color: rgb(63, 63, 147);
+}
+
+header p {
+    color: rgb(111, 147, 63);
+}
+
+article p{  
+    color: rgb(147, 63, 63);
+}
+
+/* selector de clase */
+.subtitle {
+    color: rgb(147, 63, 129);
+}   
+
+/* footer p {
+    color: grey;
+} */
+
+
+/* selector por id */
+#footer1{
+    color:green;
+}
